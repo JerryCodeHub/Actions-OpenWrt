@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/JerryCodeHub/ipq6000
+  REPO_URL: https://github.com/breeze303/ipq60xx-6.1.git
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
