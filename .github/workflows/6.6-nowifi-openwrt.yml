@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/breeze303/openwrt-ipq60xx.git
+  REPO_URL: https://github.com/LiBwrt/openwrt-6.x.git
   REPO_BRANCH: main
   FEEDS_CONF: 6.6-wifi-feeds.conf
   CONFIG_FILE: nowifi.config
